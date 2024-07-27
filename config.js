@@ -4,10 +4,10 @@ global.calender = d.toLocaleDateString("id");
 
 global.namabot = "Nova Store"; // Nama bot
 global.namaowner = "Nova Store"; // Nama owner
-global.owner = ["6285182288612"]; // Nomor owner
+global.owner = ["6281244286074"]; // Nomor owner
 global.invo = "LSD" + "-"; // LSD nya aja yang diganti
-global.pp_bot = "https://telegra.ph/file/05834291947c16caacf7b.png"; // upload di telegra.ph
-global.web = "https://chat.whatsapp.com/JTDA19S2M52APMmwNMW1fA"; // Bebas mau link gc ataupun apa
+global.pp_bot = "https://telegra.ph/file/63cb924ada55d8f7463fd.png"; // upload di telegra.ph
+global.web = "https://chat.whatsapp.com/DwVxacM5tc55VOXdA80lp4"; // Bebas mau link gc ataupun apa
 
 // Digiflazz
 const digiuser = "wasikeWjem9D"; // Username
